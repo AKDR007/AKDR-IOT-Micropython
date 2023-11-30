@@ -1,4 +1,4 @@
-""" 
+"""
     --------------------- AKDR ---------------------
     
     This Code is Used to Drive/Display the  0.96" OLED Display

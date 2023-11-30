@@ -1,4 +1,3 @@
-
 # MACHINE Functions Like Read Sensor Value, Machine Reset After System Update etc., 
 #import MACF, time
 
