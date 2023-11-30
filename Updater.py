@@ -5,7 +5,7 @@ import time
 
 ##
 
-url = "https://raw.githubusercontent.com/AKDR007/AKDR-ESP32-Micropython-Updater/main/"
+url = "https://raw.githubusercontent.com/AKDR007/AKDR-ESP32-Micropython-Updater/update/"
 
 def samp_res():
     
